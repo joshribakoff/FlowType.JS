@@ -9,7 +9,7 @@
       "email": "info@caagsoftware.com"
     }
   ],
-  "main": "lib/foo.js",
+  "main": "flowtype.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/caagsoftware/FlowType.JS"
